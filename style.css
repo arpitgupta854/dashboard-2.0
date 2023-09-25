@@ -107,25 +107,3 @@
     margin-top: 70px;
     margin-left: 185px;
 }
-.cursor{
-    position: fixed;
-    width: 50px;
-    height: 50px;
-    border: 2px solid rgb(4, 0, 248);
-    border-radius: 50%;
-    pointer-events: none;
-    margin-top: -25px;
-    margin-left: -22px;
-    text-align: center;
-    transition: transform 0.1s ease-out;
-   
-}
-.cursor2{
-    position: fixed;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background-color: #0015f9;
-    text-align: center;
-    transition: transform 0.1s ease-out;
-}
